@@ -1,4 +1,4 @@
-# BENIGN_VS_MALIGNANT_URL_CLASSIFIER_USING_MACHINE_LEARNING..
+# BENIGN_VS_MALIGNANT_URL_CLASSIFIER_USING_MACHINE_LEARNING.
 In this project, I've built an Machine learning based classifiers (Ensemble) to distinguish between benign vs malignant URL.
 
 Machine Learning algorithms (sklearn) used in this projects, 
