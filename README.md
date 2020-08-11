@@ -1,4 +1,7 @@
 # BENIGN VS MALIGNANT URL CLASSIFIER USING MACHINE LEARNING.
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
 In this project, I've built an Machine learning based classifiers (Ensemble) to distinguish between benign vs malignant URL.
 
 Machine Learning algorithms (sklearn) used in this projects, 
@@ -19,5 +22,5 @@ Excerpts :
 <img src="https://github.com/bala-codes/BENIGN-VS-MALIGNANT-URL-ML-CLASSIFIER/blob/master/imgs/output.PNG" width="100%">
 
 
-Run it for yourself part 1 @ [Google Colab](https://colab.research.google.com/github/bala-codes/BENIGN-VS-MALIGNANT-URL-ML-CLASSIFIER/blob/master/codes/Part%201%20of%20URL%20Classifier%20Training%20and%20Testing.ipynb) and part 2 @ [Google Colab](https://colab.research.google.com/github/bala-codes/BENIGN-VS-MALIGNANT-URL-ML-CLASSIFIER/blob/master/codes/Part%202%20of%20URL%20Classifier%20Single%20Input%20Edition.ipynb)
+Run it for yourself part 1 @ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bala-codes/BENIGN-VS-MALIGNANT-URL-ML-CLASSIFIER/blob/master/codes/Part%201%20of%20URL%20Classifier%20Training%20and%20Testing.ipynb) and part 2 @ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bala-codes/BENIGN-VS-MALIGNANT-URL-ML-CLASSIFIER/blob/master/codes/Part%202%20of%20URL%20Classifier%20Single%20Input%20Edition.ipynb)
 
