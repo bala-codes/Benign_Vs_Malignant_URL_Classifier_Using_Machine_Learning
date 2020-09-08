@@ -2,7 +2,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
-In this project, I've built an Machine learning based classifiers (Ensemble) to distinguish between benign vs malignant URL.
+In this repo, I've built an Machine learning based classifiers (Ensemble) to distinguish between benign vs malignant URL.
 
 Machine Learning algorithms (sklearn) used in this projects, 
 - [LogisticRegression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
